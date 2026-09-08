@@ -16,6 +16,9 @@ I build lightweight, responsive utility tools and robust web applications. With 
 - **Database:** MySQL, MongoDB
 - **Tools:** Git, GitHub, VS Code, Postman, Vercel
 
+### 💻 Featured Projects
+* **[E-Governance Service Portal](https://github.com/dharmik176/earthcafe):** A full-stack PHP and MySQL web application featuring Role-Based Access Control (RBAC), dynamic service forms, automated payment tracking, and comprehensive audit logging for citizen services, with mails API that give update to customer and also use in Newsletter feature.
+
 ### 📊 GitHub Stats
 <!-- The cache_seconds parameter prevents your stats from breaking due to rate limits -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&cache_seconds=86400)
