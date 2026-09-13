@@ -8,7 +8,7 @@ I build lightweight, responsive utility tools and robust web applications. With 
 - 🔭 **Currently working on:** Building scalable full-stack applications and expanding my backend capabilities across PHP and Node.js.
 - 🌱 **Currently learning:** Advanced API integrations, server-side architecture, and relational database management.
 - 💡 **What I do:** I specialize in transforming complex requirements into functional, user-friendly web utilities—from custom calculation engines to dynamic, data-driven applications.
-- 📫 **How to reach me:** [Your Email / LinkedIn Link]
+- 📫 **How to reach me:** [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=devganiyadharmik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dharmik-devganiya-845813380)
 
 ### 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS
